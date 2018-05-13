@@ -1,2 +1,2 @@
-# asana
-Asana for Franz 
+# Asana for Franz
+This is unofficial Asana service for Franz

@@ -1,0 +1,21 @@
+{
+    "id": "asana",
+    "name": "Asana",
+    "version": "1.0.1",
+    "description": "The simplest way to keep notes",
+    "main": "index.js",
+    "author": "Dmitriy Skudarnov <skrdvx@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/skrdv/asana",
+    "config": {
+        "serviceURL": "https://app.asana.com",
+        "serviceName": "Asana",
+        "message": "",
+        "popup": [],
+        "hasNotificationSound": true,
+        "hasIndirectMessages": true,
+        "customURL": false,
+        "hasTeamID": false,
+        "openDevTools": false
+    }
+}
